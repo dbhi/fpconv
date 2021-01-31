@@ -174,6 +174,7 @@ Apart from simulation, GHDL has experimental support for synthesis too (see [ghd
 - [umarcor/vcd_parsealyze · examples/ghdl](https://github.com/umarcor/vcd_parsealyze/tree/master/examples/ghdl) produces a VCD file to test [fpconv.py](https://github.com/umarcor/vcd_parsealyze/blob/master/examples/fpconv.py).
 - Example [Array and AXI4 Stream Verification Components](https://ghdl.github.io/ghdl-cosim/vhpidirect/examples/arrays.html#array-and-axi4-stream-verification-components) from [ghdl.github.io/ghdl-cosim](https://ghdl.github.io/ghdl-cosim) shows how to read data of type `real` (C's `double`) and convert it to/from custom signed fixed-point data types.
 
-## To DO
+## To Do
 
 - [smlgit/fpbinary](https://github.com/smlgit/fpbinary), a binary fixed point library for Python.
+- [francof2a/fxpmath](https://github.com/francof2a/fxpmath), a Python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
